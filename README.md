@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm an iOS developer who has a strong background in both music and technology. I'm excited to bring my creativity and passion for development to a company that is dedicated to pushing technology to new heights
+
+<!--
 <h1 align="left">Hi 👋, I'm Jermaine</h1>
 <h3 align="center">I'm an iOS developer who has a strong background in both music and technology. I'm excited to bring my creativity and passion for development to a company that is dedicated to pushing technology to new heights.</h3>
 
@@ -15,7 +18,7 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerjunkel&show_icons=true&locale=en&layout=compact" alt="jerjunkel" /></p>
-
+-->
 <!--
 **jerjunkel/jerjunkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
