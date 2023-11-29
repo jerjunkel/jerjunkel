@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm an iOS developer who has a strong background in both music and technology. I'm excited to bring my creativity and passion for development to a company that is dedicated to pushing technology to new heights.
+
 <!--
 **jerjunkel/jerjunkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
