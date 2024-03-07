@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an iOS developer who has a strong background in both music and technology. I'm excited to bring my creativity and passion for development to a company that is dedicated to pushing technology to new heights
+I'm an iOS developer who has a strong background in both music and technology. I'm excited to bring my creativity and development expertise to a forward-thinking company committed to pushing the boundaries of technology.
 
 <!--
 <h1 align="left">Hi 👋, I'm Jermaine</h1>
